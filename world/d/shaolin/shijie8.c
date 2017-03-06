@@ -17,6 +17,7 @@ LONG
 	);
 
 	set("exits", ([
+		"southwest" : "\d\emei\eshanmen",
 		"westdown" : __DIR__"shanmen",
 		"northup" : __DIR__"shijie9",
 	]));
