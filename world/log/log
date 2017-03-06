@@ -323,3 +323,7 @@ d/city/npc/walker.c line 37: Warning: Function pointer returning string constant
 d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
 
 daemon/skill/dugu-jiujian/po.c line 5: parse error
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call

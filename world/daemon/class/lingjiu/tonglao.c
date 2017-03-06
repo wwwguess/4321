@@ -40,11 +40,11 @@ void create()
 	set_skill("parry", 250);
 	set_skill("hand",250);
 	set_skill("strike", 250);
-        set_skill("sword",150);
+    set_skill("sword",150);
 
 	set_skill("zhemei-shou",200);
 	set_skill("liuyang-zhang",200);
-        set_skill("tianyu-qijian",120);
+    set_skill("tianyu-qijian",120);
 	set_skill("yueying-wubu",200);
 	set_skill("bahuang-gong", 250);
 
@@ -52,16 +52,18 @@ void create()
 	map_skill("strike","liuyang-zhang");
 	map_skill("dodge", "yueying-wubu");
 	map_skill("unarmed", "liuyang-zhang");
-        map_skill("strike","liuyang-zhang");
+    map_skill("strike","liuyang-zhang");
 	map_skill("hand", "zhemei-shou");
 	map_skill("parry", "liuyang-zhang");
-        map_skill("sword","tianyu-qijian");
+    map_skill("sword","tianyu-qijian");
 
-        prepare_skill("hand","zhemei-shou");
-	prepare_skill("strike","liuyang-zhang");	create_family("灵鹫宫",1, "开山祖师");
+    prepare_skill("hand","zhemei-shou");
+	prepare_skill("strike","liuyang-zhang");
+	create_family("灵鹫宫",1, "开山祖师");
+	
 	setup();
 	carry_object("/d/lingjiu/obj/qingyi")->wear();
-        carry_object("/d/lingjiu/obj/doupeng")->wear();
+	carry_object("/d/lingjiu/obj/doupeng")->wear();
 }
 
 void attempt_apprentice(object ob)

@@ -15,9 +15,7 @@ LONG
 		"north" : __DIR__"men3",
 		"south" : __DIR__"xiaodao1",
         ]));
-	set("objects",([
-		"/d/baituo/npc/cungu" : 2,
-	]));
+	//set("objects",(["/d/baituo/npc/cungu" : 2,]));
         setup();
-        replace_program(ROOM);
+        //replace_program(ROOM);
 }

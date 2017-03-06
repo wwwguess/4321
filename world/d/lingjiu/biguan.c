@@ -13,9 +13,7 @@ LONG
   set("exits",([
       "south" : __DIR__"men3",
      ]));
-  set("objects",([
-		"/kungfu/class/lingjiu/tonglao" : 1,
-     ]));
+  set("objects",(["/daemon/class/lingjiu/tonglao" : 1,]));
  setup();
- replace_program(ROOM);
+ //replace_program(ROOM);
 }
