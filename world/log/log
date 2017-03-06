@@ -1,0 +1,325 @@
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/choyin/w_street1.c line 42: Warning: Return type doesn't match prototype ( void vs int )
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+cmds/std/to.c line 8: Illegal to use local variable in functional.
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+d/choyin/w_street1.c line 42: Warning: Return type doesn't match prototype ( void vs int )
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/city/shangshu/kefang.c line 22: Warning: Function pointer returning string constant is NOT a function call
+d/city/shangshu/kefang.c line 22: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/shangshu/kefang.c line 22: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/city/shangshu/kefang.c line 22: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/choyin/w_street1.c line 42: Warning: Return type doesn't match prototype ( void vs int )
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/choyin/w_street1.c line 42: Warning: Return type doesn't match prototype ( void vs int )
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+u/sbaa/rong.c line 150: Warning: Return type doesn't match prototype ( int vs void )
+u/sbaa/rong.c line 202: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /std/char/npc.c); using the definition in /feature/clean_up.c.
+d/choyin/npc/judgeman.c line 140: Warning: Return type doesn't match prototype ( int vs void )
+d/choyin/w_street1.c line 42: Warning: Return type doesn't match prototype ( void vs int )
+d/choyin/taolin.c line 49: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/city/street3.c line 23: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/city/npc/walker.c line 37: Warning: Function pointer returning string constant is NOT a function call
+d/guanwai/yizhan.c line 4: Warning: redefinition of #define BASE_MONEY
+
+daemon/skill/dugu-jiujian/po.c line 5: parse error

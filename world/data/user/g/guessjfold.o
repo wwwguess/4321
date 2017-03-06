@@ -1,0 +1,6 @@
+#/obj/user.c
+dbase (["water":215,"max_sen":100,"max_kee":100,"max_gin":100,"food":210,"race":"人类","gender":"男性","gift_tag":1,"name":"擎天","kar":30,"per":30,"eff_sen":100,"spi":30,"eff_kee":100,"con":30,"eff_gin":100,"cor":30,"MKS":1,"int":30,"cps":30,"str":30,"default_actions":,"sen":100,"potential":9,"birthday":1487935851,"actions":,"title":"普通百姓","balance":24900000,"id":"guessjf","mud_age":39934,"mark":([]),"gin":100,"startroom":"/d/snow/inn","combat_exp":9000001,"kee":100,"age":14,"bellicosity":321,"channels":({"chat",}),])
+skills (["dodge":300,"linbo-steps":300,"sword":300,"huashan-neigong":300,"dugu-jiujian":300,"force":300,"hunyuan-zhang":300,"huashan-shenfa":300,"unarmed":300,"literate":300,])
+learned (["dodge":300,"linbo-steps":300,"sword":300,"huashan-neigong":300,"dugu-jiujian":300,"force":300,"hunyuan-zhang":300,"huashan-shenfa":300,"unarmed":300,"literate":300,])
+skill_map (["dodge":"linbo-steps","force":"huashan-neigong","strike":"hunyuan-zhang","sword":"dugu-jiujian",])
+autoload ({"/obj/money/gold:10","/obj/money/silver:93","/obj/money/coin:951",})

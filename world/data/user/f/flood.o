@@ -1,0 +1,5 @@
+#obj/user.c
+alias (["g":"get all from corpse $1","ss":"say $1","gg":"get all","h":"help cmds",])
+dbase (["kee":1,"food":0,"id":"flood","gin":0,"actions":,"title":"Ã©É½ÅÉµÚÁù´úµÜ×Ó","gift_tag":1,"board_last_read":(["taoist_b":879807796,]),"age":14,"family":(["master_id":"master taolord","enter_time":880158373,"privs":0,"master_name":"ÁÖ¼É","generation":6,"title":"µÜ×Ó","family_name":"Ã©É½ÅÉ",]),"bellicosity":20,"str":30,"kar":30,"eff_gin":100,"con":30,"name":"ºé¾°·å","birthday":880071778,"disable_type":" <»èÃÔ²»ĞÑ>","per":30,"startroom":"/d/temple/temple1","potential":57,"eff_kee":100,"PKS":2,"mud_age":9093,"sen":1,"race":"ÈËÀà","eff_sen":100,"channels":({"chat",}),"cps":30,"wimpy":30,"default_actions":,"class":"taoist","max_gin":100,"gender":"ÄĞĞÔ","int":30,"nickname":"Ò»Õó·ç[2;37;0m","spi":30,"cor":30,"max_kee":100,"combat_exp":0,"water":0,"max_sen":100,])
+skills (["taoism":0,])
+autoload ({})

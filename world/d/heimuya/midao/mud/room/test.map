@@ -1,0 +1,22 @@
+% test.map
+% This is the map of test area for test.are
+         *
+         |
+S--*--*--*--*----*
+         |  |    |
+         *--**---*
+             |
+             *
+             |
+ *--*--*--*--*----*
+          |  |    |
+          *--**---*
+
+
+
+% S,*: Room
+% -,|: Connection lines.
+% other symbol will be considered as empty (blank or space) character.
+% This is a 10 rooms area.
+% You can add comment line after a °Ù·Ö±È·ûºÅ, '%'
+% But you should note that '%' must be put at the first place of a line.

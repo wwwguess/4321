@@ -1,0 +1,6 @@
+#/obj/user.c
+dbase (["max_force":330,"MKS":49,"learned_points":1685,"water":401,"lastname":"°à²ìÄÇ","max_sen":100,"food":401,"max_kee":182,"gender":"ÄÐÐÔ","max_gin":100,"name":"º£ÈÖ","gift_tag":1,"kar":30,"per":30,"spi":30,"con":30,"eff_sen":100,"cor":30,"mark":([]),"eff_kee":182,"int":30,"eff_gin":100,"cps":30,"race":"ÈËÀà","str":30,"default_actions":,"potential":2204,"sen":100,"birthday":1487591185,"task_time":1488262176,"actions":,"title":"ºÓº£½£ÅÉµÚÎå´úµÜ×Ó","balance":31543018,"family":(["generation":5,"privs":0,"enter_time":1487676624,"master_name":"ÀÏÃ¨","title":"µÜ×Ó","master_id":"master sb","family_name":"ºÓº£½£ÅÉ",]),"id":"hairong","class":"fighter","score":1056,"mud_age":86514,"gin":100,"quest":0,"force_factor":15,"force":330,"startroom":"/d/snow/inn","tfinished":3,"combat_exp":4183,"kee":182,"nickname":"ºÓº£·çÔÆ[2;37;0m","age":15,"quest_factor":0,"bellicosity":356,"channels":({"chat",}),])
+skills (["parry":2,"dodge":2,"force":30,"wu-shun":19,"sword":32,"unarmed":2,"hhu-sword":14,"literate":0,])
+learned (["parry":7,"dodge":6,"force":52,"wu-shun":219,"sword":962,"unarmed":6,"hhu-sword":160,])
+skill_map (["force":"wu-shun","sword":"hhu-sword",])
+autoload ({"/obj/money/gold:154","/obj/money/coin:43","/u/sbaa/sbsword","/u/sbaa/sbcloth","/obj/money/silver:51",})

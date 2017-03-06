@@ -1,0 +1,6 @@
+#obj/user.c
+alias (["o":"score","bl":"buy ¼¦ÍÈ from waiter","es":"eat busen dan","ee":"eat buqi dan","h":"hp","g":"get all from corpse","²¹Æøµ¤":"from waiter","bq":"buy ²¹Æøµ¤ from waiter","a":"eat leg","q":"drink skin","bj":"buy ¾Æ from waiter","p":"save",])
+dbase (["kee":100,"food":415,"id":"cheng","gin":100,"actions":,"title":"·âÉ½½£ÅÉµÚÊ®ËÄ´úµÜ×Ó","gift_tag":1,"age":14,"family":(["master_id":"master swordsman","enter_time":882236333,"privs":0,"master_name":"Áø´¾·ç","generation":14,"title":"µÜ×Ó","family_name":"·âÉ½½£ÅÉ",]),"str":30,"kar":30,"eff_gin":100,"con":30,"name":"ËÕÆò¶ù","birthday":882234327,"balance":2000,"per":30,"disable_type":" <»èÃÔ²»ĞÑ>","startroom":"/d/snow/schoolhall","potential":51,"eff_kee":100,"mud_age":2404,"sen":80,"race":"ÈËÀà","cps":30,"channels":({"chat",}),"eff_sen":100,"default_actions":,"class":"swordsman","gender":"ÄĞĞÔ","max_gin":100,"int":30,"learned_points":6,"spi":30,"cor":30,"max_kee":100,"combat_exp":2,"water":356,"pawn":({(["name":"[35mÃÔ»Ã[2;37;0m[1;35m¾­ÂÚ[2;37;0m","unit":"¶¥","value":7000,"file":"/d/canyon/npc/obj/hat",]),}),"max_sen":100,])
+skills (["force":4,])
+learned (["force":0,])
+autoload ({"/obj/money/silver:10","/obj/money/coin:1020",})

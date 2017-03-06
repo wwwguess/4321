@@ -1,0 +1,5 @@
+#obj/user.c
+dbase (["kee":1,"food":0,"id":"ren","gin":1,"actions":,"title":"ºÓº£½£ÅÉµÚÎå´úµÜ×Ó","gift_tag":1,"board_last_read":(["bonze_b":881551452,"common_b":881282589,"query_b":881982084,]),"age":14,"family":(["privs":0,"enter_time":881281949,"master_id":"master sb","title":"µÜ×Ó","generation":5,"master_name":"ÀÏÃ¨","family_name":"ºÓº£½£ÅÉ",]),"str":30,"kar":30,"con":30,"eff_gin":100,"name":"ÈË","birthday":881277516,"per":30,"startroom":"/d/snow/inn","disable_type":" <»èÃÔ²»ĞÑ>","long":"ËûÊÇÒ»´úÃûÏº¶«·½²»°ÜµÄµÜµÜ----Î÷·½Ê§°Ü,Îä¹¦ºÜÃæµÄËµ","potential":33,"eff_kee":100,"mud_age":31593,"sen":1,"race":"ÈËÀà","cps":30,"channels":({"chat","rumor",}),"eff_sen":100,"default_actions":,"class":"fighter","gender":"ÄĞĞÔ","max_gin":100,"learned_points":6,"int":30,"nickname":"[32mÌì  Éñ[2;37;0m","spi":30,"cor":30,"max_kee":100,"combat_exp":1,"water":0,"max_sen":100,])
+skills (["force":1,"literate":3,])
+learned (["force":2,"literate":0,])
+autoload ({})

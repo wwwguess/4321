@@ -1,0 +1,280 @@
+inherit SKILL;
+
+mapping *quest = ({
+	([	"quest":	"Îâ·¢·¢",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"Îâ¹³",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ÍÁ·ËÊ×Áì",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"[33mÄÏÌì°Ô[2;37;0m",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"[30mÂôÒÕÈË[2;37;0m",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"[31mÎŞÇéµ¶[2;37;0m",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"Â½´óÓĞ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"¸ß¸ùÃ÷",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"»ÒÉ«³¤ÉÀ",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"×ÏÏ¼ÃØóÅ",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"Ê©´÷×Ó",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"[1;35m¹ùĞ¥Ìì[2;37;0m",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"°à²ìÄÇ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"Ë®ÑÌ¸óË¾ÊÂ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"Ë®ÑÌ¸óË¾ÊÂÃ±",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"Ë®ÑÌ¸óË¾ÊÂ¹Ó",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ºìÒÂÎäÊ¿",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"åÌÒå",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"Ê¨ºğ×Ó",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ÁÖÂú",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"»¤ËÂÀ®Âï",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"³Â²Æ³¤",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ËÎÇàÊé",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"Çúğ¥ç÷",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"»ğß¡",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"ºÕÔì»ù",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ÌúÉÈ½£",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"[35mÃÔ»Ã[2;37;0m[1;35m¾­ÂÚ[2;37;0m",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"Áº·¢",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"[1;35mïÚÍ·[2;37;0m",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"ÓİÇíÒÂ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"[1;32mÂÌÂŞÈ¹[2;37;0m",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"»ÛÃû×ğÕß",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"»ÛÉ«×ğÕß",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"Çà²¼Ïâ±ßôÂôÄ",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"ÀÏÕß",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"¾ÆÂ¥ÊØÎÀ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"ÀÍµÂÅµ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"ÂæÔÆÖÛ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"ÈÕºó",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"ÇØÕñÌì",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ÌìÇàË¿ÒÂ",
+		"quest_type":	"Ñ°",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+	([	"quest":	"Áîºü³å",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	1,
+	]),
+
+	([	"quest":	"°²Ï§åÇ",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	-1,
+	]),
+
+	([	"quest":	"ÀÏ´å³¤",
+		"quest_type":	"É±",
+		"exp_bonus":	90,
+		"shen_type":	0,
+	]),
+
+});
+
+
+mapping query_quest()
+{
+        return quest[random(sizeof(quest))];
+}

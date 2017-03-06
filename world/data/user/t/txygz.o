@@ -1,0 +1,6 @@
+#/obj/user.c
+dbase (["learned_points":191,"quest_factor":0,"water":380,"food":365,"max_sen":100,"gender":"ÄÐÐÔ","score":81,"max_kee":100,"gift_tag":1,"name":"ÀÏ³å","max_gin":100,"kar":30,"per":30,"spi":30,"mark":([]),"con":30,"task_time":1488693667,"cor":30,"eff_sen":100,"int":30,"eff_kee":100,"quest":0,"cps":30,"eff_gin":100,"str":30,"tfinished":0,"default_actions":,"sen":100,"potential":195,"birthday":1488103647,"actions":,"title":"ºÓº£½£ÅÉµÚÎå´úµÜ×Ó","balance":5129900,"family":(["generation":5,"privs":0,"enter_time":1488213322,"master_name":"ÀÏÃ¨","title":"µÜ×Ó","master_id":"master sb","family_name":"ºÓº£½£ÅÉ",]),"race":"ÈËÀà","id":"txygz","mud_age":37935,"gin":100,"pawn":({(["value":200000,"file":"/u/sbaa/sbsword","load":1,"name":"ÀäÑª½£","unit":"°Ñ",]),(["value":2000,"file":"/u/cloud/obj/literate_book","name":"ËµÎÄ½â×Ö","unit":"±¾",]),}),"class":"fighter","force":0,"startroom":"/d/snow/inn","combat_exp":161,"kee":100,"nickname":"ÄÏ¾©µÚÒ»Ç¹[2;37;0m","age":14,"lastname":"´¬·ò","channels":({"chat",}),])
+skills (["dodge":10,"parry":10,"force":10,"wu-shun":2,"sword":10,"literate":10,])
+learned (["dodge":1,"parry":1,"force":0,"wu-shun":0,"sword":77,"literate":90,])
+skill_map (["force":"wu-shun",])
+autoload ({"/obj/money/coin:40","/u/sbaa/sbcloth","/u/sbaa/sbsword","/u/sbaa/sbsword","/u/sbaa/sbcloth","/obj/money/silver:958","/obj/money/gold:55",})

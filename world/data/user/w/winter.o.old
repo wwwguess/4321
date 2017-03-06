@@ -1,0 +1,7 @@
+#/obj/user.c
+alias (["lf":"learn force from sb","22":"buy 补气丹 from yang","2":"eat buqi dan","ls":"learn sword from sb","11":"buy 补精丹 from yang","33":"buy 补神丹 from yang","3":"eat busen dan","1":"eat bujin dan","ld":"learn dodge from sb",])
+dbase (["max_force":171,"MKS":46,"water":0,"atman":0,"lastname":"铁扇剑","max_sen":100,"food":216,"max_kee":142,"gender":"男性","max_gin":100,"gift_tag":1,"name":"萧龙","kar":30,"per":30,"spi":30,"con":30,"eff_sen":100,"cor":30,"eff_kee":142,"int":30,"class":"fighter","score":610,"eff_gin":100,"default_actions":,"cps":30,"str":30,"sen":90,"potential":1605,"actions":,"birthday":1487592298,"learned_points":1380,"race":"人类","quest":(["time":500,"pot_bonus":10,"quest_type":"寻","exp_bonus":20,"quest":"铁扇剑","score":10,]),"task_time":1488290208,"title":"河海剑派第五代弟子","balance":15542624,"mana":0,"family":(["generation":5,"privs":0,"enter_time":1487592334,"master_name":"老猫","title":"弟子","master_id":"master sb","family_name":"河海剑派",]),"mark":([]),"id":"winter","tfinished":0,"quest_factor":0,"mud_age":53332,"gin":100,"force":223,"kee":142,"combat_exp":2938,"age":14,"bellicosity":1778,"channels":({"chat",}),])
+skills (["dodge":17,"parry":5,"force":22,"wu-shun":16,"hhu-sword":16,"sword":31,"literate":5,])
+learned (["dodge":243,"parry":32,"force":28,"wu-shun":145,"hhu-sword":11,"sword":0,"literate":18,])
+skill_map (["force":"wu-shun","sword":"hhu-sword",])
+autoload ({"/obj/money/silver:3663","/obj/money/gold:44","/u/sbaa/sbcloth","/u/sbaa/sbsword","/obj/money/coin:963",})

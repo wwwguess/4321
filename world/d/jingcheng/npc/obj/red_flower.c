@@ -1,0 +1,14 @@
+#include <ansi.h>
+inherit ITEM;
+void create()
+{
+    set_name(RED"∫Ï√µπÂ"NOR,({"hong mei gui","hua","hong","mei gui"}));
+    set_weight(10);
+     if (clonep() )
+      set_default_object(__FILE__);
+     else {
+      set("ong","“ª∂‰»»«È±º∑≈µƒ∫Ï√µπÂ");
+      set("value",250);
+      set("unit","∂‰");
+    }
+}
