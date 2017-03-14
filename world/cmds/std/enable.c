@@ -20,6 +20,8 @@ mapping valid_types = ([
         "move":         "行动",
         "array":        "阵法",
     "whip":     "鞭法",
+    "hand":     "手法",
+	"strike":     "掌法",
 ]);
 
 int main(object me, string arg)

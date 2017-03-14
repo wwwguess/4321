@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------
-河海风云 (MudOS v22pre11) starting up on Microsoft Windows 95 - Tue Mar 14 14:55:58 2017
+河海风云 (MudOS v22pre11) starting up on Microsoft Windows 95 - Tue Mar 14 19:49:58 2017
 
 
 Can't find "mudos", ignoring old binaries.
@@ -10,26 +10,3 @@ Loading preloaded files ...
 Initializations complete.
 
 Accepting connections on port 5555.
-System Error: flush_message: write:无法立即完成一个非阻止性套接字操作。
-
-System Error: flush_message: write:无法立即完成一个非阻止性套接字操作。
-
-System Error: flush_message: write:无法立即完成一个非阻止性套接字操作。
-
-System Error: flush_message: write:无法立即完成一个非阻止性套接字操作。
-
-System Error: flush_message: write:无法立即完成一个非阻止性套接字操作。
-
-object /u/sbaa/bujindan: eval_cost too big 1000000
-
-执行时段错误：*Too long evaluation. Execution aborted.
-
-程式：feature/dbase.c 第 40 行
-物件: /u/sbaa/bujindan
-呼叫来自：feature/command.c 的 command_hook() 第 43 行，物件： obj/user#1407 ("冷剑")
-呼叫来自：cmds/std/buy.c 的 main() 第 29 行，物件： cmds/std/buy
-呼叫来自：feature/finance.c 的 pay_money() 第 56 行，物件： obj/user#1407 ("冷剑")
-呼叫来自：feature/name.c 的 id() 第 19 行，物件： u/sbaa/bujindan#1943 ("补精丹")
-呼叫来自：std/char.c 的 visible() 第 142 行，物件： obj/user#1407 ("冷剑")
-呼叫来自：feature/dbase.c 的 query() 第 46 行，物件： u/sbaa/bujindan#1943 ("补精丹")
-呼叫来自：feature/dbase.c 的 query() 第 40 行，物件： u/sbaa/bujindan ("补精丹")

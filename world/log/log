@@ -22,3 +22,9 @@ adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
 d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
 std/char/quest.c line 200: Warning: Extra ';'. Ignored.
 adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+d/snow/npc/zhuhongxue.c line 216: Warning: Extra ';'. Ignored.
+std/char/quest.c line 200: Warning: Extra ';'. Ignored.
+adm/daemons/combatd.c line 3: Warning: Unknown #pragma, ignored.
