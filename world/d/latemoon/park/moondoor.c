@@ -10,6 +10,7 @@ LONG
 	);
 	set("exits", ([ /* sizeof() == 2 */
     "north" :__DIR__"paroad1",
+    "west" :"/d/lngjiu/dating",
 
 ]));
 

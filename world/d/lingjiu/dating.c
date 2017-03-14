@@ -13,6 +13,7 @@ LONG
         set("exits", ([
 		"north" : __DIR__"changl15",
 		"south" : __DIR__"damen",
+		"east" : "/d/latemoon/park/moondoor",
         ]));
 
 	set("objects",([
