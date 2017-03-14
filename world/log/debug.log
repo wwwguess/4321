@@ -1,19 +1,12 @@
 ----------------------------------------------------------------------------
-河海风云 (MudOS v22pre11) starting up on Microsoft Windows 95 - Mon Mar 06 12:33:49 2017
+河海风云 (MudOS v22pre11) starting up on Microsoft Windows 95 - Tue Mar 14 09:09:26 2017
 
 
 Can't find "mudos", ignoring old binaries.
 Try invoking the driver using the full pathname.
-System Error: init_addr_server: connect:由于目标计算机积极拒绝，无法连接。
-
+Connected to address server on 127.0.0.1 port 3990
 
 Loading preloaded files ...
 Initializations complete.
 
 Accepting connections on port 5555.
-get_user_data: read on fd 584
-System Error: get_user_data: read:当文件已存在时，无法创建该文件。
-
-get_user_data: read on fd 584
-System Error: get_user_data: read:当文件已存在时，无法创建该文件。
-
