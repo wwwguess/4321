@@ -50,20 +50,20 @@ mapping *quest = ({
                 "pot_bonus":            20,
                 "score" :               15 
         ]),
-       ([      "quest":                "ÇåÔÆ",
-                "quest_type":           "É±",
-                "time":                 500,
-                "exp_bonus":            30,
-                "pot_bonus":            20,
-                "score" :               5
-        ]),
-       ([      "quest":                "ÇåÐþ",
-                "quest_type":           "É±",
-                "time":                 500,
-                "exp_bonus":            40,
-                "pot_bonus":            20,
-                "score" :               15
-        ]),
+       //([      "quest":                "ÇåÔÆ",
+       //         "quest_type":           "É±",
+       //         "time":                 500,
+       //         "exp_bonus":            30,
+       //         "pot_bonus":            20,
+       //         "score" :               5
+       // ]),
+       //([      "quest":                "ÇåÐþ",
+       //         "quest_type":           "É±",
+       //         "time":                 500,
+       //         "exp_bonus":            40,
+       //         "pot_bonus":            20,
+       //         "score" :               15
+       // ]),
 });
 
 mapping query_quest()

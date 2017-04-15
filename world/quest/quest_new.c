@@ -394,13 +394,13 @@ mapping *quest = ({
                 "score" :               10
         ]),
 
-([      "quest":                "清云",
-                "quest_type":           "杀",
-                "time":                 240,
-                "exp_bonus":            30,
-                "pot_bonus":            20,
-                "score" :               10
-        ]),
+//([      "quest":                "清云",
+//                "quest_type":           "杀",
+//                "time":                 240,
+//                "exp_bonus":            30,
+//                "pot_bonus":            20,
+//                "score" :               10
+//        ]),
 
 ([      "quest":                "古文志",
                 "quest_type":           "寻",
@@ -417,13 +417,13 @@ mapping *quest = ({
                 "score" :               10
         ]),
 
-([      "quest":                "清玄",
-                "quest_type":           "杀",
-                "time":                 300,
-                "exp_bonus":            40,
-                "pot_bonus":            30,
-                "score" :               10
-        ]),
+//([      "quest":                "清玄",
+//                "quest_type":           "杀",
+//                "time":                 300,
+//                "exp_bonus":            40,
+//                "pot_bonus":            30,
+//                "score" :               10
+//        ]),
 
 ([      "quest":                "魔法入门",
                 "quest_type":           "寻",

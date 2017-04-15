@@ -8,6 +8,7 @@ int main(object me, string arg)
 {
         int nowtime = time();
         mapping quest;
+
         if(!(quest =  me->query("quest")))
                return notify_fail("你现在没有任何任务！\n");
         write("你现在的任务是" + quest["quest_type"] +

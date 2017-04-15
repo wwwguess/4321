@@ -61,6 +61,7 @@ void init()
 
 int give_quest()
 {
+		write("give_quest\n");
         mapping quest ;
         object me;
         int j, combatexp, timep,factor,num,tfinished, chishu;
@@ -78,8 +79,8 @@ int give_quest()
                         "22000",
                         "40000",
                         "50000",
-                        "60000",
                         "80000",
+                        "90000",
                         "100000",
                         "200000",
                         "400000",
@@ -154,8 +155,15 @@ int give_quest()
 	}
 
         tag=levels[num];
- if (random(10)>2) {       quest = QUEST_D(tag)->query_quest();}
-else {quest="/quest/quest_new"->query_quest();}
+		write(sprintf("quest tag = %s\n",tag));
+    if (random(10)>2) 
+	{  
+        quest = QUEST_D(tag)->query_quest();
+    }
+    else 
+	{
+		quest="/quest/quest_new"->query_quest();
+    }
         timep = quest["time"];
         time_period(timep, me);
         if (quest["quest_type"] == "Ѱ")
